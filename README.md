@@ -1,7 +1,17 @@
 <h2 align="left">Hi 👋! Welcome to My Profile " TheBlackXYZ24 "
 
-###
+Name: TheBlackXYZ24 
 
+Age : 18
+
+Social: (1) Teligram Movie Channel: https://t.me/TheBlackXYZ
+         
+        (2) Instagram : https://www.instagram.com/the_black_xyz?igsh=ODA1NTc5OTg5Nw== 
+
+
+       
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
