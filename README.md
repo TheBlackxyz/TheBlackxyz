@@ -7,9 +7,7 @@ Name: TheBlackXYZ24
 
 Age : 18
 
-Social: (1) Teligram Movie Channel: https://t.me/TheBlackXYZ
-         
-        (2) Instagram : https://www.instagram.com/the_black_xyz?igsh=ODA1NTc5OTg5Nw== 
+Social: @TheBlackXYZ
 
 
        
