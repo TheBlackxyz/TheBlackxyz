@@ -1,13 +1,20 @@
-<h2 align="left">Hi 👋! Welcome to My Profile " TheBlackXYZ24 "
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕!)</p>
+<img src="https://graph.org/file/962b393580ce69a7f887d.jpg" alt="𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 Logo">
+</p>
+<p align="center">
+
+<h1 align="center">
+  <b> 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕</b>
+</h1>
 
 
 
 
-Name: TheBlackXYZ24 
+Name: 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 
 
 Age : 18
 
-Social: @TheBlackXYZ
+Social: @𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕
 
 
        
