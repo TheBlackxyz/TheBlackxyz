@@ -12,7 +12,7 @@
 <a href="https://telegram.dog/TheBlackXYZ"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kdbotz&show_icons=true&count_private=false&theme=white)    
+![Stats](https://github-readme-stats.vercel.app/api?username=TheBlackxyz&show_icons=true&count_private=false&theme=white)    
 
 <p align="center">
   <a href="https://github.com/TheBlackxyz">
