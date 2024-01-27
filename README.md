@@ -5,7 +5,7 @@
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TheBlackXYZ Botz}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg"/></p> 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_black_xyz)
 
