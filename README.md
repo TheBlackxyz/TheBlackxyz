@@ -1,5 +1,4 @@
 
-  <b> 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕</b>
   
 <p align="center">
   <a href="https://github.com/TheBlackxyz/readme-typing-svg">
@@ -12,7 +11,7 @@
 </p>
 
 <p align="center">
- Trust me! I'm not TheBlackXYZ 😒
+ Trust me! I'm not 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 😒
 </p>
 
 # Community ❤️
@@ -29,7 +28,7 @@
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{TheBlackxyz+Badshah24}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{TheBlackxyz+TheBadshah24}/count.svg)
 
 
 ## YouTube 
@@ -42,17 +41,9 @@
 <a href="https://telegram.dog/TheBlackXYZ"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TheBlackxyz&show_icons=true&count_private=false&theme=white)    
+    
 
-<p align="center">
-  <a href="https://github.com/TheBlackxyz">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kdbotz&theme=react-dark" />
-  </a>
-</p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
-
-<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 
 
