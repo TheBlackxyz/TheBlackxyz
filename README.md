@@ -18,7 +18,7 @@
 # Community ❤️
 </p>
 <p align="center">
-<a href="[https://www.instagram.com/the_black_xyz]?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TheBlackXYZBotz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TheBlackXYZBotz"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@TheBlackXYZ?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
