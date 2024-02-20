@@ -28,7 +28,7 @@
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{TheBlackxyz+TheBadshah24}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{TheBlackxyz}/count.svg)
 
 
 ## YouTube 
