@@ -22,6 +22,10 @@
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=TheBlackxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=TheBlackxyz&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TheBlackxyz/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheBlackxyz&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center">
