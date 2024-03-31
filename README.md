@@ -21,31 +21,31 @@
 <a href="https://youtube.com/@TheBlackXYZ?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
+## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=TheBlackxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=TheBlackxyz&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TheBlackxyz/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheBlackxyz&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center">
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=TheBlackxyz&hide=prs&count_public=true&show_icons=true&theme=algolia" align="center"> </p>
+
+   <p align="center">
+ <img src="https://github.com/TheBlackxyz/github-readme-stats" align="center"> </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheBlackxyz&theme=tokyonight" align="center"> </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center"> </p>
 
 
-## Profile views counter
+## Profile views counter🇮🇳
 ![Visitor Count](https://profile-counter.glitch.me/{TheBlackxyz}/count.svg)
 
 
-## YouTube 
-<a href="https://youtube.com/@TheBlackXYZ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCY-iDra0x2hdd9PdHKcZkRw?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 
-
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_black_xyz)
-
-<a href="https://telegram.dog/TheBlackXYZ"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-</p>
-
-
+#Developer Fascinating 😎😎
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
