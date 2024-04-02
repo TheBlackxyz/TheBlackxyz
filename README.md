@@ -14,20 +14,20 @@
  Trust me! I'm not 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 😒
 </p>
 
-                                           ## Profile views counter🇮🇳
+                                    ## Profile views counter🇮🇳
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
 
 
 
-                                               # Community ❤️
+                                              # Community ❤️
 </p>
 <p align="center">
 <a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/TheBlackXYZBotz"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZBotz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 <a href="https://youtube.com/@TheBlackXYZ?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-                                               ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳
+                                            ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=TheBlackxyz&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
@@ -45,14 +45,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center"> </p>
 
 
-                                             ## Profile views counter🇮🇳
+                                         ## Profile views counter🇮🇳
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBadshah24}/count.svg" <p align="center"> </p>
 
 
 
 
-                                             #Developer Fascinating 😎😎
+                                          #Developer Fascinating 😎😎
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
