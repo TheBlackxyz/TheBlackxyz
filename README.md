@@ -43,7 +43,13 @@
 
 <h3 align="center">Developer Fascinating 😎😎 </h3>
 
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=TheBlackxyz&limit=5&theme=dark&combine_all_yearly_contributions=true" align="center"> </p>
+  
+
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="center">Tech Stack</h3>
 
