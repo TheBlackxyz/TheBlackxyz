@@ -14,7 +14,7 @@
  Trust me! I'm not 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 😒
 </p>
 
-                                    ## Profile views counter🇮🇳
+                                        ## Profile views counter🇮🇳
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
 
@@ -43,12 +43,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center"> </p>
-
-
-                                         ## Profile views counter🇮🇳
-<p align="center">
-<img src="https://profile-counter.glitch.me/{TheBadshah24}/count.svg" <p align="center"> </p>
-
 
 
 
