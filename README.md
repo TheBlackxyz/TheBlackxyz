@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
- Trust me! I'm not 𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 😒
+ Trust me! I'm not 🚫𝙏𝙝𝙚𝘽𝙡𝙖𝙘𝙠𝙓𝙔𝙕 😒
 </p>
 
-<h3 align="center">Profile views counter🇮🇳</h3>
+<h3 align="center">👀 Profile views counter 🇮🇳</h3>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">Community ❤️</h3>
+<h3 align="center">🙏 Community ❤️</h3>
 </p>
 <p align="center">
 <a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/TheBlackXYZBotz"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZBotz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
@@ -48,9 +48,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
-<h3 align="center">A Developer Fascinating 😎😎 From India</h3>
+<h3 align="center">🫣 A Developer Fascinating 😎😎 From India</h3>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">🤗 Tech Stack 👍</h3>
 
 </p>
 <p align="center">
@@ -59,7 +59,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES</h3>
+<h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES🏅</h3>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
