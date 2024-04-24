@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">Community ❤️</h3>
 </p>
@@ -26,6 +26,9 @@
 <a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/TheBlackXYZBotz"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZBotz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 <a href="https://youtube.com/@TheBlackXYZ?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <h3 align="center">💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳</h3>
 <p align="center">
@@ -40,16 +43,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center"> </p>
 
-
-<h3 align="center">Developer Fascinating 😎😎 </h3>
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=TheBlackxyz&limit=5&theme=dark&combine_all_yearly_contributions=true" align="center"> </p>
+<img src="https://github-contributor-stats.vercel.app/api?username=TheBlackxyz&limit=5&theme=radical&combine_all_yearly_contributions=true" align="center"> </p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
   
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A Developer Fascinating 😎😎 From India</h3>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -58,7 +59,10 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/></a> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/></a>
 </p>
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES</h3>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
