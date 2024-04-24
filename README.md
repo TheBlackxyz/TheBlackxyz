@@ -37,8 +37,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheBlackxyz&hide=prs&count_public=true&show_icons=true&theme=algolia" align="center"> </p>
 <p align="center">
-<img src="https://github.com/TheBlackxyz/github-readme-stats" align="center"> </p>
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheBlackxyz&theme=tokyonight" align="center"> </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=tokyonight" align="center"> </p>
