@@ -41,7 +41,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=merko" align="center"> </p>
 
-----------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">🔝 Top Contributed Repo</h3>
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=TheBlackxyz&limit=5&theme=jolly&ff000&008000&combine_all_yearly_contributions=true" align="center"> </p>
@@ -63,5 +62,11 @@
 <h3 align="center">🏆 𝗚𝗜𝗧𝗛𝗨𝗕 ••TROPHIES🏅</h3>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center">Thank You 🙏, You visiting My GitHub Profile</h3>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
