@@ -41,9 +41,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=merko" align="center"> </p>
 
-#<h3 #align="center">🔝 Top Contributed Repo</h3>
-#<p #align="center">
-#<img #src="https://github-contributor-stats.vercel.app/api?username=TheBlackxyz&limit=5&theme=jolly&ff000&008000&combine_all_yearly_contributions=true" align="center"> </p>
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<p align="center">
+<img src="https://github-contributor-stats.koyeb.app/api?username=TheBlackxyz&limit=5&theme=jolly&ff000&008000&combine_all_yearly_contributions=true" align="center"> </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
