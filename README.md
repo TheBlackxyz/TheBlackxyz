@@ -7,9 +7,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20month%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-Your Coding Developerr TheBlackXYZBotz...😒
+𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭𝗕𝗼𝘁𝘇...😒
 </p>
-<h3 align="center">👀 Profile views counter 🇮🇳</h3>
+<h3 align="center">👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄 𝗖𝗼𝘂𝗻𝘁𝗲𝗿 🇮🇳</h3>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
 <h1 align="center">
@@ -17,7 +17,7 @@ Your Coding Developerr TheBlackXYZBotz...😒
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">🙏 Community ❤️</h3>
+<h3 align="center">🙏 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 ❤️</h3>
 </p>
 <p align="center">
 <a href="https://www.instagram.com/the_black_xyz?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.dog/TheBlackXYZBotz"><img alt="Telegram" src="https://img.shields.io/badge/TheBlackXYZBotz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
@@ -37,13 +37,9 @@ Your Coding Developerr TheBlackXYZBotz...😒
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBlackxyz&layout=compact&theme=merko" align="center"> </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<p align="center">
-<img src="https://github-contributor-stats.koyeb.app/api?username=TheBlackxyz&limit=5&theme=jolly&ff000&008000&combine_all_yearly_contributions=true" align="center"> </p>
-
 ----------------------------------------------------------------------------------------------------------------------------------------------
   
-<h3 align="center">🫣 A Developer Fascinating 😎😎 From India</h3>
+<h3 align="center">🫣 𝗔 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗶𝗻𝗴 😎😎 From India</h3>
 
 </p>
 <p align="center">
@@ -57,6 +53,6 @@ Your Coding Developerr TheBlackXYZBotz...😒
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
-<h3 align="center">Thank You 🙏, You visiting My GitHub Profile</h3>
+<h3 align="center">🆃︎🅷︎🅰︎🅽︎🅺︎ 🆈︎🅾︎🆄︎..❗ 🆅︎🅸︎🆂︎🅸︎🆃︎🅸︎🅽︎🅶︎ 🅼︎🆈︎ 🅶︎🅸︎🆃︎🅷︎🆄︎🅱︎ 🅿︎🆁︎🅾︎🅵︎🅸︎🅻︎🅴︎</h3>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
