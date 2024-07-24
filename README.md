@@ -1,22 +1,19 @@
-
-  
 <p align="center">
   <a href="https://github.com/TheBlackxyz/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=TheBlackXYZ &font=Fira%20SemiBold&center=true&width=480&height=45&color=ff0000&vCenter=true&pause=1000&size=40" /></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/TheBlackxyz/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20month%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
 <p align="center">
  This Your Coding Developerr TheBlackXYZ Botz 😒
 </p>
-
 <h3 align="center">👀 Profile views counter 🇮🇳</h3>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{TheBlackxyz}/count.svg" <p align="center"> </p>
+<h1 align="center">
+<a href="https://www.buymeacoffee.com/TheBlackXYZBotz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +25,6 @@
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <h3 align="center">💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••🇮🇳</h3>
 <p align="center">
@@ -49,8 +45,6 @@
   
 <h3 align="center">🫣 A Developer Fascinating 😎😎 From India</h3>
 
-<h3 align="center">🤗 Tech Stack 👍</h3>
-
 </p>
 <p align="center">
   
@@ -63,10 +57,6 @@
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=TheBlackxyz&theme=radical&no-frame=false&no-bg=false&margin-w=4" </p>
 
----------------------------------------------------------------------------------------------------------------------------------------
-
 <h3 align="center">Thank You 🙏, You visiting My GitHub Profile</h3>
-
-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
