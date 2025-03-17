@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/TheBlackxyz/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=TheBlackXYZBotz &font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=TheBlackXYZ&font=Fira%20SemiBold&center=true&width=480&height=45&color=32CD32&vCenter=true&pause=1000&size=40" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/TheBlackxyz/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%20Designer;2%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=9400D3&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭𝗕𝗼𝘁𝘇...😒
+𝗬𝗼𝘂𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝗿 𝗧𝗵𝗲𝗕𝗹𝗮𝗰𝗸𝗫𝗬𝗭...😒
 </p>
 <h3 align="center">👀 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄 𝗖𝗼𝘂𝗻𝘁𝗲𝗿 🇮🇳</h3>
 <p align="center">
